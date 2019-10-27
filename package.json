@@ -1,0 +1,14 @@
+{
+  "name": "jquery-test-version",
+  "version": "1.0.0",
+  "author": "Elik",
+  "license": "None",
+  "description": "test",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "jquery": "3.4.1"
+  }
+}
